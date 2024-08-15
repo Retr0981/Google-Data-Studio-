@@ -15,14 +15,10 @@ Welcome to the Data Analysis Projects repository! This collection showcases two 
 3. **`Helpdesk_Analysis_Report.pdf`**  
    A PDF document with screenshots of helpdesk-related charts and graphs created using Google Data Studio (or Looker Studio), along with summaries. 🖼️
 
-4. **`Helpdesk_Analysis_Results.pptx`**  
-   A PowerPoint presentation featuring the same helpdesk visualizations and summaries for easy review and presentation. 📈
-
-5. **`Sales_Analysis_Report.pdf`**  
+4. **`Sales_Analysis_Report.pdf`**  
    A PDF document with screenshots of sales-related charts and graphs created using Google Data Studio (or Looker Studio), including summaries. 🖼️
 
-6. **`Sales_Analysis_Results.pptx`**  
-   A PowerPoint presentation with sales visualizations and summaries for presentations. 📈
+
 
 ## 🛠️ Helpdesk Ticket Analysis
 
