@@ -14,7 +14,7 @@ All files related to the analysis are located in the `raw-data` folder.
 2. **`raw-data/Products and Transaction List.csv`**  
    Contains the sales data used for the sales analysis. 🛒
 
-3. **`Helpdesk_Analysis_Report.pdf`**  
+3. **`Helpdesk-Tickets-Presentation.pdf`**  
    A PDF document with screenshots of helpdesk-related charts and graphs created using Google Data Studio (or Looker Studio), along with summaries. 🖼️
 
 4. **`Product-Transaction-List-Presentation.pdf`**  
