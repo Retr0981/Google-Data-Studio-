@@ -6,10 +6,12 @@ Welcome to the Data Analysis Projects repository! This collection showcases two 
 
 ## 📁 Files Included
 
-1. **`cleansed_data.csv`**  
+All files related to the analysis are located in the `raw-data` folder.
+
+1. **`raw-data/cleansed_data.csv`**  
    Contains the cleansed helpdesk ticket data used for the helpdesk analysis. 📋
 
-2. **`Products_and_Transaction_List.csv`**  
+2. **`raw-data/Products and Transaction List.csv`**  
    Contains the sales data used for the sales analysis. 🛒
 
 3. **`Helpdesk_Analysis_Report.pdf`**  
